@@ -1,5 +1,5 @@
 #!/usr/bin/groovy
-@Library('github.com/rajdavies/fabric8-pipeline-library@dev3')
+@Library('github.com/fabric8io/fabric8-pipeline-library@master')
 def dummy
 clientsNode {
   ws {
