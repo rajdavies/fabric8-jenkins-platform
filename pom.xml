@@ -48,7 +48,7 @@
     <restassured.version>1.7.2</restassured.version>
     <httpclient.version>4.5.1</httpclient.version>
     <jackson.version>2.5.0</jackson.version>
-    <kubernetes-client.version>2.2.2</kubernetes-client.version>
+    <kubernetes-client.version>2.3.1</kubernetes-client.version>
     <spring.version>3.2.14.RELEASE</spring.version>
     <slf4j.version>1.7.7</slf4j.version>
 

@@ -4,7 +4,7 @@ def dummy
 clientsNode {
   ws {
     checkout scm
-    sh "git remote set-url origin git@github.com:fabric8io/fabric8-maven-dependencies.git"
+    sh "git remote set-url origin git@github.com:fabric8io/fabric8-jenkins-platform.git"
 
     mavenUpdateOrganisationDependencies{
       organisation = 'fabric8io'
